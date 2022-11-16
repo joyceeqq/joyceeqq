@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joyceeqq
 - 👀 I’m interested in anything software!
-- 🌱 I’m currently learning Ruby!!
+- 🌱 I’m currently learning Golang!!
 - 💞️ I’m looking to collaborate on with anyone that can make use of my skills so I can practice more!!!
 - 📫 How to reach me joyce041144@gmail.com
 
